@@ -84,19 +84,6 @@ https://github.com/josecorrea01/Portafolio
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josecorrea01&show_icons=true&locale=es" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecorrea01&layout=compact&locale=es" alt="Top Langs" />
-</p>
-
----
-
 # 📫 Contacto
 
 **LinkedIn**  
