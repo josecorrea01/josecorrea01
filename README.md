@@ -87,7 +87,7 @@ https://github.com/josecorrea01/Portafolio
 # 📫 Contacto
 
 **LinkedIn**  
-https://www.linkedin.com/in/jose-carlos-correa-herrera-314687399/
+https://www.linkedin.com/in/josecorreaherrera
 
 **GitHub**  
 https://github.com/josecorrea01
